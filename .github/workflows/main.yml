@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: Niveda-Vijayaraj/docker-webp-converter:22f3002810
+          tags: nivedavijayaraj/docker-webp-converter:22f3002810
